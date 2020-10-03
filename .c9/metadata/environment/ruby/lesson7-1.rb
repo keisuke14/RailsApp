@@ -1,0 +1,1 @@
+{"filter":false,"title":"lesson7-1.rb","tooltip":"/ruby/lesson7-1.rb","ace":{},"undoManager":{"mark":-1,"position":-1,"stack":[]},"timestamp":1600517984831,"hash":"8d93d6e869b2dc7fc8617861a25e29344c45a052"}
